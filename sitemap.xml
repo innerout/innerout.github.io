@@ -3,78 +3,173 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/publication-type/1/</loc>
-    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+    <loc>https://gxanth.com/talk/example-talk/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+    <loc>https://gxanth.com/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/anastasios-papagiannis/</loc>
-    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+    <loc>https://gxanth.com/event/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/angelos-bilas/</loc>
-    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+    <loc></loc>
+    <lastmod>2021-02-06T03:13:39+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/</loc>
-    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+    <loc>https://gxanth.com/publication-type/2/</loc>
+    <lastmod>2021-02-06T03:13:39+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/giorgos-saloustros/</loc>
-    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+    <loc></loc>
+    <lastmod>2021-02-06T03:13:39+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/giorgos-xanthakis/</loc>
-    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+    <loc></loc>
+    <lastmod>2021-02-06T03:13:39+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/manolis-marazakis/</loc>
-    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+    <loc></loc>
+    <lastmod>2021-02-06T03:13:39+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/papagiannis-optimizing-2020/</loc>
-    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+    <loc></loc>
+    <lastmod>2021-02-06T03:13:39+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+    <loc></loc>
+    <lastmod>2021-02-06T03:13:39+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/</loc>
-    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+    <loc>https://gxanth.com/publication/papagiannis-2021-kreon/</loc>
+    <lastmod>2021-02-06T03:13:39+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc></loc>
+    <lastmod>2021-02-06T03:13:39+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/giorgos-xanthakis/</loc>
+    <loc>https://gxanth.com/publication_types/</loc>
+    <lastmod>2021-02-06T03:13:39+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/</loc>
+    <loc>https://gxanth.com/publication/</loc>
+    <lastmod>2021-02-06T03:13:39+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/</loc>
+    <loc>https://gxanth.com/tag/academic/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc></loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gxanth.com/categories/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gxanth.com/category/demo/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gxanth.com/post/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gxanth.com/tags/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gxanth.com/post/getting-started/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gxanth.com/tag/%E5%BC%80%E6%BA%90/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gxanth.com/category/%E6%95%99%E7%A8%8B/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gxanth.com/publication-type/1/</loc>
+    <lastmod>2021-02-06T03:13:39+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2021-02-06T03:13:39+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gxanth.com/publication/papagiannis-2020-optimizing/</loc>
+    <lastmod>2021-02-06T03:13:39+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gxanth.com/slides/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gxanth.com/slides/example/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gxanth.com/tag/deep-learning/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gxanth.com/project/example/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gxanth.com/project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gxanth.com/publication/example/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
   </url>
   
 </urlset>
