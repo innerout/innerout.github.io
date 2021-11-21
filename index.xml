@@ -7,7 +7,7 @@
     <description>gxanth.com</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>©`2021`</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://gxanth.com/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://gxanth.com/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>gxanth.com</title>
       <link>https://gxanth.com/</link>
     </image>
@@ -33,10 +33,26 @@
     </item>
     
     <item>
-      <title>Kreon: An Efficient Memory-Mapped Key-Value Store for Flash Storage</title>
-      <link>https://gxanth.com/publication/papagiannis-2021-kreon/</link>
+      <title>Balancing Garbage Collection vs I/O Amplification using dynamic KV separation</title>
+      <link>https://gxanth.com/publication/xanthakis-balancing-2021/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://gxanth.com/publication/papagiannis-2021-kreon/</guid>
+      <guid>https://gxanth.com/publication/xanthakis-balancing-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kreon: An Efficient Memory-Mapped Key-Value Store for Flash Storage</title>
+      <link>https://gxanth.com/publication/papagiannis-kreon-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://gxanth.com/publication/papagiannis-kreon-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parallax: Hybrid Key-Value Placement in LSM-based Key-Value Stores</title>
+      <link>https://gxanth.com/publication/xanthakis-parallax-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://gxanth.com/publication/xanthakis-parallax-2021/</guid>
       <description></description>
     </item>
     
@@ -65,29 +81,12 @@
 
 
 
-
-
-
-
-&lt;figure id=&#34;figure-the-template-is-mobile-first-with-a-responsive-design-to-ensure-that-your-site-looks-stunning-on-every-device&#34;&gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png&#34; data-caption=&#34;The template is mobile first with a responsive design to ensure that your site looks stunning on every device.&#34;&gt;
-
-
-  &lt;img src=&#34;https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png&#34; alt=&#34;&#34;  &gt;
-&lt;/a&gt;
-
-
-  
-  
-  &lt;figcaption&gt;
-    The template is mobile first with a responsive design to ensure that your site looks stunning on every device.
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
-
+&lt;figure  id=&#34;figure-the-template-is-mobile-first-with-a-responsive-design-to-ensure-that-your-site-looks-stunning-on-every-device&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div &gt;&lt;img src=&#34;https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png&#34; alt=&#34;The template is mobile first with a responsive design to ensure that your site looks stunning on every device.&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      The template is mobile first with a responsive design to ensure that your site looks stunning on every device.
+    &lt;/figcaption&gt;&lt;/figure&gt;
 &lt;h2 id=&#34;get-started&#34;&gt;Get Started&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;👉 &lt;a href=&#34;https://wowchemy.com/templates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Create a new site&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
@@ -135,10 +134,10 @@
     </item>
     
     <item>
-      <title>Optimizing Memory-mapped I/O for Fast Storage Devices</title>
-      <link>https://gxanth.com/publication/papagiannis-2020-optimizing/</link>
+      <title>Optimizing memory-mapped I/O for fast storage devices</title>
+      <link>https://gxanth.com/publication/papagiannis-optimizing-2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://gxanth.com/publication/papagiannis-2020-optimizing/</guid>
+      <guid>https://gxanth.com/publication/papagiannis-optimizing-2020/</guid>
       <description></description>
     </item>
     
@@ -193,15 +192,15 @@ $$&lt;/p&gt;
 {{% fragment %}} Three {{% /fragment %}}
 &lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
-&lt;p&gt;&lt;span class=&#34;fragment &#34; &gt;
-One
+&lt;span class=&#34;fragment &#34; &gt;
+   One 
 &lt;/span&gt;
 &lt;span class=&#34;fragment &#34; &gt;
-&lt;strong&gt;Two&lt;/strong&gt;
+   **Two** 
 &lt;/span&gt;
 &lt;span class=&#34;fragment &#34; &gt;
-Three
-&lt;/span&gt;&lt;/p&gt;
+   Three 
+&lt;/span&gt;
 &lt;hr&gt;
 &lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
 &lt;ul&gt;
