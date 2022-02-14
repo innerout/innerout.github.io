@@ -5,7 +5,7 @@
     <link>https://gxanth.com/publication-type/1/</link>
       <atom:link href="https://gxanth.com/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>©`2021`</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>©`2022`</copyright><lastBuildDate>Mon, 01 Nov 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://gxanth.com/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
@@ -14,17 +14,17 @@
     
     <item>
       <title>Parallax: Hybrid Key-Value Placement in LSM-based Key-Value Stores</title>
-      <link>https://gxanth.com/publication/xanthakis-parallax-2021/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://gxanth.com/publication/xanthakis-parallax-2021/</guid>
+      <link>https://gxanth.com/publication/xanthakis-2021-parallax/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://gxanth.com/publication/xanthakis-2021-parallax/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Optimizing memory-mapped I/O for fast storage devices</title>
-      <link>https://gxanth.com/publication/papagiannis-optimizing-2020/</link>
+      <title>Optimizing Memory-mapped I/O for Fast Storage Devices</title>
+      <link>https://gxanth.com/publication/papagiannis-2020-optimizing/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://gxanth.com/publication/papagiannis-optimizing-2020/</guid>
+      <guid>https://gxanth.com/publication/papagiannis-2020-optimizing/</guid>
       <description></description>
     </item>
     
